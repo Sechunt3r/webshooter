@@ -55,6 +55,10 @@ wb.open_new_tab("https://www.google.com/search?q=site:*." +domain)
 
 wb.open_new_tab("https://www.google.com/search?q=site:*.*." +domain)
 
+# Finding Country Domain's By Google Dork
+
+wb.open_new_tab("https://www.google.com/search?q=site:"+domain +".*")
+
 # SQL Dorks
 
 wb.open_new_tab("https://www.google.com/search?q=site:" +domain+ "+username+OR+password+OR+login+OR+root+OR+admin")
