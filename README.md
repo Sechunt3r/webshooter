@@ -6,7 +6,7 @@ Information gathering tool from publicly available sites against a target domain
 * pip3 install pyfiglet --user
 
 # Install:- 
-* git clone https://github.com/Sechun3r/webshooter
+* git clone https://github.com/Sechunt3r/webshooter
 * cd webshooter
 * pip3 install pyfiglet --user
 * python3 shooter.py hackerone.com 	
